@@ -5,22 +5,22 @@
 4.	After playing, you will receive a total score and a level.
 
 # UI Demo
-Cover
+**Cover**
 <img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/445fca67-e227-40dc-bf42-9eb76304809e" />
 
-Main menu
+**Main menu**
 <img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/17c9e94f-91d9-4b15-9c98-0bb102b8aea5" />
      
-Difficulty selection menu
+**Difficulty selection menu**
 <img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/0c459e81-9d8a-4f05-87b4-e1590ee681ec" />
 
-Game screen
+**Game screen**
 <img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/f0a9f0e3-763f-407d-a649-bbbd1f3ab7ca" />
      
-Grade rating
+**Grade rating**
 <img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/6852b136-83e9-441a-852e-f13c7544edb4" />
      
-Pause menu
+**Pause menu**
 <img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/205263ef-7d7b-4b7e-b510-1bc88eba39d2" />
 
 # Project highlights:
@@ -33,7 +33,7 @@ Improving the user experience is also an important part of engineering design, a
 To sum up, all these features are trying to simulate a real music game and to give the users better playing experience, and I wish you like it!
 
 # Project Reflection:
-    My reflection is mainly divided into three parts: what I have done, what I have learnt and how will I do better in the future.
+My reflection is mainly divided into three parts: what I have done, what I have learnt and how will I do better in the future.
 First, I successfully and over fulfilled the expected work content in this project. To be more specific, not only did I implement the game part, but the extra features like the menus, difficulty selection, and pause were all done. Initially I thought that designing a music game is difficult, but I really wanted to realize it, so I made the decision to make it. Since I was worried that I would not finish the project as expected, I invested considerable energy at the beginning of the project. Fortunately, the project has been proceeding smoothly overall. 
 Secondly, my programming ability has been further improved in this project. To begin with, I was actually confused with the classes in C++ before doing this project. However, after going through and understanding the code of Pong game repeatedly, I understand it much better now. One clear improvement is that when I was writing washing machine code in sophomore year, I could only rely on one main function to write while now I can create classes to call functions between the main function and the libraries. Besides, the experience of the calculator menu project last semester has helped me to think of these player-friendly functions and achieve them.
 Thirdly, my coding habit is not good and I need to improve that in the future: Even though there are several libraries that help spread out the amount of code, there are still hundreds of lines of code in the main function, which is not convenient for reading. I should learn how to standardize my code.
