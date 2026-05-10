@@ -6,22 +6,22 @@
 
 # UI Demo
 Cover
-<img width="317" height="211" alt="image" src="https://github.com/user-attachments/assets/445fca67-e227-40dc-bf42-9eb76304809e" />
+<img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/445fca67-e227-40dc-bf42-9eb76304809e" />
 
 Main menu
-<img width="323" height="242" alt="image" src="https://github.com/user-attachments/assets/17c9e94f-91d9-4b15-9c98-0bb102b8aea5" />
+<img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/17c9e94f-91d9-4b15-9c98-0bb102b8aea5" />
      
 Difficulty selection menu
 <img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/0c459e81-9d8a-4f05-87b4-e1590ee681ec" />
 
 Game screen
-<img width="352" height="268" alt="image" src="https://github.com/user-attachments/assets/f0a9f0e3-763f-407d-a649-bbbd1f3ab7ca" />
+<img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/f0a9f0e3-763f-407d-a649-bbbd1f3ab7ca" />
      
 Grade rating
-<img width="378" height="283" alt="image" src="https://github.com/user-attachments/assets/6852b136-83e9-441a-852e-f13c7544edb4" />
+<img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/6852b136-83e9-441a-852e-f13c7544edb4" />
      
 Pause menu
-<img width="368" height="265" alt="image" src="https://github.com/user-attachments/assets/205263ef-7d7b-4b7e-b510-1bc88eba39d2" />
+<img width="322" height="231" alt="image" src="https://github.com/user-attachments/assets/205263ef-7d7b-4b7e-b510-1bc88eba39d2" />
 
 # Project highlights:
 First, the idea of this game is unique. The idea of making a music game occurred to me suddenly at that time. Once I had this idea, I could not get it out of my mind and so I decided to make it. Besides, there are two most technically impressive features of this game in my perspective.
